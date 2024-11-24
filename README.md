@@ -1,1 +1,2 @@
-# happy_birthday_melody_arduino
+# happy birthday melody arduino
+in this code you can play happy birthday song via using a speaker and a arduino.
